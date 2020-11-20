@@ -6,11 +6,11 @@
 
 > clone the repository.
 
-    $ git clone https://github.com/JuliRash/tailwind-css
+    $ git clone https://github.com/JuliRash/tailwindcss-practice
 
 > Navigate to the project directory.
 
-    $ cd tailwindc
+    $ cd tailwindcss-practice
 
 > Install Required Libraries.
 
